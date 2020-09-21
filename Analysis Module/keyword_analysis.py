@@ -129,3 +129,5 @@ def main():
 
 
 main()
+
+# [2020-09-21] (NLP) schedule note: Document market insights for NLP
