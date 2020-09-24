@@ -278,3 +278,5 @@ if __name__ == '__main__':
         print('Fetching the data...', str(timedelta(seconds=s)))
         s += 30
         time.sleep(30)
+
+# [2020-09-24] (NLP) schedule note: Enhance similarity analysis for NLP
