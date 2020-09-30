@@ -278,3 +278,5 @@ def main():
 #         print('Fetching the data...', str(timedelta(seconds=s)))
 #         s += 30
 #         time.sleep(30)
+
+# [2020-09-30] (Marketing) schedule note: Add visualization for Marketing
