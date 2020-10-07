@@ -50,3 +50,5 @@ python generate_charts.py
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
+
+- [2020-10-07] (NLP) schedule note: Add visualization for NLP
