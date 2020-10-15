@@ -131,3 +131,5 @@ def main():
 main()
 
 # [2020-09-21] (NLP) schedule note: Document market insights for NLP
+
+# [2020-10-15] (Influencer) schedule note: Improve influencer clustering around Influencer
