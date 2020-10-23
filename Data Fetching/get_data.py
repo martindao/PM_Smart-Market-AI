@@ -280,3 +280,5 @@ if __name__ == '__main__':
         time.sleep(30)
 
 # [2020-09-24] (NLP) schedule note: Enhance similarity analysis for NLP
+
+# [2020-10-23] (Marketing) schedule note: Enhance similarity analysis for Marketing
