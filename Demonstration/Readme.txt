@@ -6,3 +6,4 @@ Don't forget to install the dependencies mentioned in the requirements.txt file.
 Also, don't forget to create the folders "data" and inside it "Twitter", 'Facebook', 'Website' and 'Instagram'.
 
 That's all.
+- [2020-10-28] (Influencer) schedule note: Enhance similarity analysis for Influencer
