@@ -93,3 +93,5 @@ data_comp = data_frame_comp.copy()
 
 data_comp.to_csv('data_competitors.csv', index=False)  # output data competitors df to csv file
 # data_frame_influencer.to_csv('data_influencer.csv', index=False)  # output data of influencer df to csv file
+
+# [2020-11-02] (NLP) schedule note: Enhance similarity analysis for NLP
