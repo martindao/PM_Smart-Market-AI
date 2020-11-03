@@ -133,3 +133,5 @@ main()
 # [2020-09-21] (NLP) schedule note: Document market insights for NLP
 
 # [2020-10-15] (Influencer) schedule note: Improve influencer clustering around Influencer
+
+# [2020-11-03] (NLP) schedule note: Add visualization for NLP
