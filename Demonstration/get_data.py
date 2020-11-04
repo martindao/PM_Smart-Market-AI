@@ -280,3 +280,5 @@ def main():
 #         time.sleep(30)
 
 # [2020-09-30] (Marketing) schedule note: Add visualization for Marketing
+
+# [2020-11-04] (Clustering) schedule note: Document market insights for Clustering
