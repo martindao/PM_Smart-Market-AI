@@ -41,3 +41,5 @@ def show_heatmap(comp_comp=True):
 
 
 # show_heatmap(comp_comp=False)
+
+# [2020-11-05] (Influencer) schedule note: Enhance similarity analysis for Influencer
