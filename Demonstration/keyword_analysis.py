@@ -133,3 +133,5 @@ def get_keywords():
 # main()
 
 # [2020-10-01] (NLP) schedule note: Improve influencer clustering around NLP
+
+# [2020-11-06] (Marketing) schedule note: Improve influencer clustering around Marketing
