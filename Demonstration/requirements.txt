@@ -19,3 +19,4 @@ seaborn
 tensorflow_hub
 tensorflow
 scipy
+- [2020-11-09] (Influencer) schedule note: Add visualization for Influencer
