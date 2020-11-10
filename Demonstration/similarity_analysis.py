@@ -224,3 +224,5 @@ def competitor_competitor_similarity(sentence_split=False):
 # competitor_influencer_similarity()
 
 # [2020-10-02] (NLP) schedule note: Document market insights for NLP
+
+# [2020-11-10] (Marketing) schedule note: Improve influencer clustering around Marketing
