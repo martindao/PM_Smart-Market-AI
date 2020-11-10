@@ -7,3 +7,5 @@ Also, don't forget to create the folders "data" and inside it "Twitter", 'Facebo
 
 That's all.
 - [2020-10-28] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+- [2020-11-10] (Clustering) schedule note: Add visualization for Clustering
