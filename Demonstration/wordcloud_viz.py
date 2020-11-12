@@ -24,3 +24,5 @@ def show_wordcloud(comp=True, comp_name=''):
 
 
 # show_wordcloud(comp=False)
+
+# [2020-11-12] (Influencer) schedule note: Document market insights for Influencer
