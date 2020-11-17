@@ -20,3 +20,5 @@ tensorflow_hub
 tensorflow
 scipy
 - [2020-11-09] (Influencer) schedule note: Add visualization for Influencer
+
+- [2020-11-17] (Marketing) schedule note: Add visualization for Marketing
