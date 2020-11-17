@@ -77,3 +77,5 @@ compiled_inf_data.to_csv(
     "preprocessed_data_inf_without_punc.csv", index=False)  # output final text processed data of influence into csv file format
 
 # [2020-10-06] (NLP) schedule note: Improve influencer clustering around NLP
+
+# [2020-11-17] (Clustering) schedule note: Add visualization for Clustering
