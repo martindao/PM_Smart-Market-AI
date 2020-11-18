@@ -119,3 +119,5 @@ data_comp.competitor_name.replace('Puresport_website_text', 'puresport', inplace
 
 data_comp.to_csv('data_competitors.csv', index=False)  # output data competitors df to csv file
 data_frame_influencer.to_csv('data_influencer.csv', index=False)  # output data of influencer df to csv file
+
+# [2020-11-18] (Clustering) schedule note: Improve influencer clustering around Clustering
