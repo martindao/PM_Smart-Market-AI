@@ -54,3 +54,5 @@ python generate_charts.py
 - [2020-10-07] (NLP) schedule note: Add visualization for NLP
 
 - [2020-11-19] (NLP) schedule note: Enhance similarity analysis for NLP
+
+- [2020-11-23] (Influencer) schedule note: Add visualization for Influencer
