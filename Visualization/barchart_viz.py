@@ -34,3 +34,5 @@ def show_barchart(comp=True, top_n=30):
 show_barchart(comp=True)
 
 # [2020-10-09] (Clustering) schedule note: Improve influencer clustering around Clustering
+
+# [2020-11-30] (NLP) schedule note: Improve influencer clustering around NLP
