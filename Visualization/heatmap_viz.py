@@ -42,3 +42,5 @@ def show_heatmap(comp_comp=True):
 show_heatmap(comp_comp=True)
 
 # [2020-10-09] (NLP) schedule note: Improve influencer clustering around NLP
+
+# [2020-12-01] (NLP) schedule note: Improve influencer clustering around NLP
