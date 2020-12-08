@@ -5,3 +5,5 @@
 - [2020-09-22] (Influencer) schedule note: Add visualization for Influencer
 
 - [2020-10-23] (NLP) schedule note: Enhance similarity analysis for NLP
+
+- [2020-12-08] (Clustering) schedule note: Document market insights for Clustering
