@@ -135,3 +135,5 @@ main()
 # [2020-10-15] (Influencer) schedule note: Improve influencer clustering around Influencer
 
 # [2020-11-03] (NLP) schedule note: Add visualization for NLP
+
+# [2020-12-21] (Marketing) schedule note: Enhance similarity analysis for Marketing
