@@ -227,3 +227,5 @@ competitor_influencer_similarity()
 # [2020-10-19] (NLP) schedule note: Improve influencer clustering around NLP
 
 # [2020-11-04] (NLP) schedule note: Add visualization for NLP
+
+# [2020-12-22] (Marketing) schedule note: Document market insights for Marketing
