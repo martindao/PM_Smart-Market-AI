@@ -3,3 +3,5 @@ The data is all in text format and we will store it in .csv files. Unless it bec
 - [2020-09-23] (Clustering) schedule note: Enhance similarity analysis for Clustering
 
 - [2020-10-20] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+- [2020-12-22] (NLP) schedule note: Add visualization for NLP
