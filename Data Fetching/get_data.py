@@ -284,3 +284,5 @@ if __name__ == '__main__':
 # [2020-10-23] (Marketing) schedule note: Enhance similarity analysis for Marketing
 
 # [2020-11-06] (NLP) schedule note: Improve influencer clustering around NLP
+
+# [2020-12-24] (Clustering) schedule note: Add visualization for Clustering
