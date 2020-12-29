@@ -95,3 +95,5 @@ data_comp.to_csv('data_competitors.csv', index=False)  # output data competitors
 # data_frame_influencer.to_csv('data_influencer.csv', index=False)  # output data of influencer df to csv file
 
 # [2020-11-02] (NLP) schedule note: Enhance similarity analysis for NLP
+
+# [2020-12-29] (Marketing) schedule note: Add visualization for Marketing
