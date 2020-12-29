@@ -79,3 +79,5 @@ compiled_comp_data.to_csv(
 # [2020-09-28] (Clustering) schedule note: Document market insights for Clustering
 
 # [2020-10-29] (Clustering) schedule note: Document market insights for Clustering
+
+# [2020-12-29] (NLP) schedule note: Improve influencer clustering around NLP
