@@ -45,3 +45,5 @@ def show_heatmap(comp_comp=True):
 # [2020-11-05] (Influencer) schedule note: Enhance similarity analysis for Influencer
 
 # [2020-11-16] (Clustering) schedule note: Improve influencer clustering around Clustering
+
+# [2020-12-30] (Clustering) schedule note: Document market insights for Clustering
