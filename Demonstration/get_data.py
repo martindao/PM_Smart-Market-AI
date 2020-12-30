@@ -284,3 +284,5 @@ def main():
 # [2020-11-04] (Clustering) schedule note: Document market insights for Clustering
 
 # [2020-11-16] (Influencer) schedule note: Improve influencer clustering around Influencer
+
+# [2020-12-30] (NLP) schedule note: Document market insights for NLP
