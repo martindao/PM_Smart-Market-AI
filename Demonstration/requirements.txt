@@ -22,3 +22,5 @@ scipy
 - [2020-11-09] (Influencer) schedule note: Add visualization for Influencer
 
 - [2020-11-17] (Marketing) schedule note: Add visualization for Marketing
+
+- [2020-12-31] (NLP) schedule note: Document market insights for NLP
