@@ -26,3 +26,5 @@ def show_wordcloud(comp=True, comp_name=''):
 # show_wordcloud(comp=False)
 
 # [2020-11-12] (Influencer) schedule note: Document market insights for Influencer
+
+# [2021-01-04] (Influencer) schedule note: Improve influencer clustering around Influencer
