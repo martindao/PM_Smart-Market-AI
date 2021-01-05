@@ -79,3 +79,5 @@ compiled_inf_data.to_csv(
 # [2020-10-06] (NLP) schedule note: Improve influencer clustering around NLP
 
 # [2020-11-17] (Clustering) schedule note: Add visualization for Clustering
+
+# [2021-01-05] (Marketing) schedule note: Enhance similarity analysis for Marketing
