@@ -121,3 +121,5 @@ data_comp.to_csv('data_competitors.csv', index=False)  # output data competitors
 data_frame_influencer.to_csv('data_influencer.csv', index=False)  # output data of influencer df to csv file
 
 # [2020-11-18] (Clustering) schedule note: Improve influencer clustering around Clustering
+
+# [2021-01-06] (Influencer) schedule note: Add visualization for Influencer
