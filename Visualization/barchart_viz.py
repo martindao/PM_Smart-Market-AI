@@ -36,3 +36,5 @@ show_barchart(comp=True)
 # [2020-10-09] (Clustering) schedule note: Improve influencer clustering around Clustering
 
 # [2020-11-30] (NLP) schedule note: Improve influencer clustering around NLP
+
+# [2021-01-11] (Clustering) schedule note: Add visualization for Clustering
