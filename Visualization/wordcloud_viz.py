@@ -22,3 +22,5 @@ def show_wordcloud(comp=True):
 
 
 show_wordcloud(comp=True)
+
+# [2021-01-12] (NLP) schedule note: Add visualization for NLP
