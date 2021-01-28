@@ -7,3 +7,5 @@
 - [2020-10-23] (NLP) schedule note: Enhance similarity analysis for NLP
 
 - [2020-12-08] (Clustering) schedule note: Document market insights for Clustering
+
+- [2021-01-28] (Clustering) schedule note: Enhance similarity analysis for Clustering
