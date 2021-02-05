@@ -7,3 +7,5 @@
 - [2020-11-02] (Influencer) schedule note: Document market insights for Influencer
 
 - [2020-12-18] (Marketing) schedule note: Add visualization for Marketing
+
+- [2021-02-05] (NLP) schedule note: Document market insights for NLP
