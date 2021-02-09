@@ -137,3 +137,5 @@ main()
 # [2020-11-03] (NLP) schedule note: Add visualization for NLP
 
 # [2020-12-21] (Marketing) schedule note: Enhance similarity analysis for Marketing
+
+# [2021-02-09] (Marketing) schedule note: Add visualization for Marketing
