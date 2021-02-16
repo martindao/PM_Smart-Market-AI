@@ -5,3 +5,5 @@
 - [2020-10-27] (Clustering) schedule note: Improve influencer clustering around Clustering
 
 - [2020-12-28] (Marketing) schedule note: Document market insights for Marketing
+
+- [2021-02-16] (Marketing) schedule note: Document market insights for Marketing
