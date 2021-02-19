@@ -97,3 +97,5 @@ data_comp.to_csv('data_competitors.csv', index=False)  # output data competitors
 # [2020-11-02] (NLP) schedule note: Enhance similarity analysis for NLP
 
 # [2020-12-29] (Marketing) schedule note: Add visualization for Marketing
+
+# [2021-02-19] (Clustering) schedule note: Add visualization for Clustering
