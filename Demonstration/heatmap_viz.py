@@ -47,3 +47,5 @@ def show_heatmap(comp_comp=True):
 # [2020-11-16] (Clustering) schedule note: Improve influencer clustering around Clustering
 
 # [2020-12-30] (Clustering) schedule note: Document market insights for Clustering
+
+# [2021-02-22] (Marketing) schedule note: Document market insights for Marketing
