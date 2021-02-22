@@ -286,3 +286,5 @@ def main():
 # [2020-11-16] (Influencer) schedule note: Improve influencer clustering around Influencer
 
 # [2020-12-30] (NLP) schedule note: Document market insights for NLP
+
+# [2021-02-22] (Influencer) schedule note: Enhance similarity analysis for Influencer
