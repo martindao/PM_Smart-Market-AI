@@ -137,3 +137,5 @@ def get_keywords():
 # [2020-11-06] (Marketing) schedule note: Improve influencer clustering around Marketing
 
 # [2020-12-31] (Marketing) schedule note: Add visualization for Marketing
+
+# [2021-02-22] (Influencer) schedule note: Enhance similarity analysis for Influencer
