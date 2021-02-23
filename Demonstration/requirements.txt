@@ -24,3 +24,5 @@ scipy
 - [2020-11-17] (Marketing) schedule note: Add visualization for Marketing
 
 - [2020-12-31] (NLP) schedule note: Document market insights for NLP
+
+- [2021-02-23] (NLP) schedule note: Document market insights for NLP
