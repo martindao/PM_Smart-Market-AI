@@ -123,3 +123,5 @@ data_frame_influencer.to_csv('data_influencer.csv', index=False)  # output data 
 # [2020-11-18] (Clustering) schedule note: Improve influencer clustering around Clustering
 
 # [2021-01-06] (Influencer) schedule note: Add visualization for Influencer
+
+# [2021-02-26] (Marketing) schedule note: Add visualization for Marketing
