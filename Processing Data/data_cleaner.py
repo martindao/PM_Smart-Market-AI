@@ -81,3 +81,5 @@ compiled_inf_data.to_csv(
 # [2020-11-17] (Clustering) schedule note: Add visualization for Clustering
 
 # [2021-01-05] (Marketing) schedule note: Enhance similarity analysis for Marketing
+
+# [2021-02-26] (Clustering) schedule note: Add visualization for Clustering
