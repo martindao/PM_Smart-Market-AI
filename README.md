@@ -58,3 +58,5 @@ python generate_charts.py
 - [2020-11-23] (Influencer) schedule note: Add visualization for Influencer
 
 - [2021-01-06] (Marketing) schedule note: Document market insights for Marketing
+
+- [2021-03-01] (Marketing) schedule note: Enhance similarity analysis for Marketing
