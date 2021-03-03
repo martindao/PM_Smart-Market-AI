@@ -5,3 +5,5 @@
 - [2020-11-27] (NLP) schedule note: Document market insights for NLP
 
 - [2021-01-08] (NLP) schedule note: Add visualization for NLP
+
+- [2021-03-03] (Influencer) schedule note: Enhance similarity analysis for Influencer
