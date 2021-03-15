@@ -7,3 +7,5 @@
 - [2020-12-03] (Marketing) schedule note: Add visualization for Marketing
 
 - [2021-01-21] (Marketing) schedule note: Enhance similarity analysis for Marketing
+
+- [2021-03-15] (Clustering) schedule note: Add visualization for Clustering
