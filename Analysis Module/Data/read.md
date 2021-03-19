@@ -9,3 +9,5 @@
 - [2020-12-08] (Clustering) schedule note: Document market insights for Clustering
 
 - [2021-01-28] (Clustering) schedule note: Enhance similarity analysis for Clustering
+
+- [2021-03-19] (Marketing) schedule note: Add visualization for Marketing
