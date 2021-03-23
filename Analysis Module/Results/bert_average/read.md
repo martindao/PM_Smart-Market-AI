@@ -7,3 +7,5 @@
 - [2020-12-10] (Clustering) schedule note: Document market insights for Clustering
 
 - [2021-01-29] (Clustering) schedule note: Improve influencer clustering around Clustering
+
+- [2021-03-23] (Influencer) schedule note: Document market insights for Influencer
