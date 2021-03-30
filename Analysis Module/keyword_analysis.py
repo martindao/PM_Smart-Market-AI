@@ -139,3 +139,5 @@ main()
 # [2020-12-21] (Marketing) schedule note: Enhance similarity analysis for Marketing
 
 # [2021-02-09] (Marketing) schedule note: Add visualization for Marketing
+
+# [2021-03-30] (Influencer) schedule note: Enhance similarity analysis for Influencer
