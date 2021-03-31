@@ -7,3 +7,5 @@ The data is all in text format and we will store it in .csv files. Unless it bec
 - [2020-12-22] (NLP) schedule note: Add visualization for NLP
 
 - [2021-02-10] (Marketing) schedule note: Add visualization for Marketing
+
+- [2021-03-31] (Clustering) schedule note: Add visualization for Clustering
