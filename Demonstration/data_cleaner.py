@@ -83,3 +83,5 @@ compiled_comp_data.to_csv(
 # [2020-12-29] (NLP) schedule note: Improve influencer clustering around NLP
 
 # [2021-02-18] (Clustering) schedule note: Add visualization for Clustering
+
+# [2021-04-08] (Marketing) schedule note: Add visualization for Marketing
