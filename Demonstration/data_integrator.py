@@ -99,3 +99,5 @@ data_comp.to_csv('data_competitors.csv', index=False)  # output data competitors
 # [2020-12-29] (Marketing) schedule note: Add visualization for Marketing
 
 # [2021-02-19] (Clustering) schedule note: Add visualization for Clustering
+
+# [2021-04-09] (Marketing) schedule note: Document market insights for Marketing
