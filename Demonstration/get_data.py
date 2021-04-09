@@ -288,3 +288,5 @@ def main():
 # [2020-12-30] (NLP) schedule note: Document market insights for NLP
 
 # [2021-02-22] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+# [2021-04-09] (Clustering) schedule note: Add visualization for Clustering
