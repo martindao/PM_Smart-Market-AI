@@ -139,3 +139,5 @@ def get_keywords():
 # [2020-12-31] (Marketing) schedule note: Add visualization for Marketing
 
 # [2021-02-22] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+# [2021-04-13] (Clustering) schedule note: Document market insights for Clustering
