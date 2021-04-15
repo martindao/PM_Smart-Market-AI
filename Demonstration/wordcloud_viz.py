@@ -30,3 +30,5 @@ def show_wordcloud(comp=True, comp_name=''):
 # [2021-01-04] (Influencer) schedule note: Improve influencer clustering around Influencer
 
 # [2021-02-24] (Marketing) schedule note: Enhance similarity analysis for Marketing
+
+# [2021-04-15] (Clustering) schedule note: Document market insights for Clustering
