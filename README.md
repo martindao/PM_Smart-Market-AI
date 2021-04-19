@@ -60,3 +60,5 @@ python generate_charts.py
 - [2021-01-06] (Marketing) schedule note: Document market insights for Marketing
 
 - [2021-03-01] (Marketing) schedule note: Enhance similarity analysis for Marketing
+
+- [2021-04-19] (NLP) schedule note: Improve influencer clustering around NLP
