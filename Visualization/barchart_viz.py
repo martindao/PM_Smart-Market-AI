@@ -40,3 +40,5 @@ show_barchart(comp=True)
 # [2021-01-11] (Clustering) schedule note: Add visualization for Clustering
 
 # [2021-03-05] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+# [2021-04-22] (Marketing) schedule note: Enhance similarity analysis for Marketing
