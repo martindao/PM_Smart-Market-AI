@@ -26,3 +26,5 @@ show_wordcloud(comp=True)
 # [2021-01-12] (NLP) schedule note: Add visualization for NLP
 
 # [2021-03-09] (Marketing) schedule note: Document market insights for Marketing
+
+# [2021-04-27] (NLP) schedule note: Improve influencer clustering around NLP
