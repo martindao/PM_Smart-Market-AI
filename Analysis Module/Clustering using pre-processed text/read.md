@@ -9,3 +9,5 @@
 - [2021-01-21] (Marketing) schedule note: Enhance similarity analysis for Marketing
 
 - [2021-03-15] (Clustering) schedule note: Add visualization for Clustering
+
+- [2021-05-03] (Influencer) schedule note: Improve influencer clustering around Influencer
