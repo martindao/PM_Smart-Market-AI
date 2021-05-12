@@ -7,3 +7,5 @@
 - [2021-02-03] (Marketing) schedule note: Document market insights for Marketing
 
 - [2021-03-26] (Marketing) schedule note: Document market insights for Marketing
+
+- [2021-05-12] (Clustering) schedule note: Add visualization for Clustering
