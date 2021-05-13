@@ -11,3 +11,5 @@
 - [2021-02-05] (NLP) schedule note: Document market insights for NLP
 
 - [2021-03-29] (Marketing) schedule note: Document market insights for Marketing
+
+- [2021-05-13] (Marketing) schedule note: Enhance similarity analysis for Marketing
