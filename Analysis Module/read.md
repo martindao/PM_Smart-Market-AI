@@ -7,3 +7,5 @@
 - [2021-02-09] (Influencer) schedule note: Add visualization for Influencer
 
 - [2021-03-30] (NLP) schedule note: Improve influencer clustering around NLP
+
+- [2021-05-17] (Clustering) schedule note: Improve influencer clustering around Clustering
