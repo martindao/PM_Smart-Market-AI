@@ -290,3 +290,5 @@ if __name__ == '__main__':
 # [2021-02-12] (NLP) schedule note: Document market insights for NLP
 
 # [2021-04-05] (Marketing) schedule note: Add visualization for Marketing
+
+# [2021-05-20] (Clustering) schedule note: Enhance similarity analysis for Clustering
