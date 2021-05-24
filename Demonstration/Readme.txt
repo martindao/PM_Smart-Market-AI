@@ -15,3 +15,5 @@ That's all.
 - [2021-02-17] (Marketing) schedule note: Document market insights for Marketing
 
 - [2021-04-07] (NLP) schedule note: Document market insights for NLP
+
+- [2021-05-24] (Clustering) schedule note: Add visualization for Clustering
