@@ -290,3 +290,5 @@ def main():
 # [2021-02-22] (Influencer) schedule note: Enhance similarity analysis for Influencer
 
 # [2021-04-09] (Clustering) schedule note: Add visualization for Clustering
+
+# [2021-05-26] (Marketing) schedule note: Enhance similarity analysis for Marketing
