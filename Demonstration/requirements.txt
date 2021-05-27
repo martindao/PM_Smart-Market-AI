@@ -28,3 +28,5 @@ scipy
 - [2021-02-23] (NLP) schedule note: Document market insights for NLP
 
 - [2021-04-14] (Clustering) schedule note: Document market insights for Clustering
+
+- [2021-05-27] (Marketing) schedule note: Add visualization for Marketing
