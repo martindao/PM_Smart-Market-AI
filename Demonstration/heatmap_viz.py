@@ -51,3 +51,5 @@ def show_heatmap(comp_comp=True):
 # [2021-02-22] (Marketing) schedule note: Document market insights for Marketing
 
 # [2021-04-13] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+# [2021-05-27] (Marketing) schedule note: Improve influencer clustering around Marketing
