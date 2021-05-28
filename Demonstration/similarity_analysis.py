@@ -234,3 +234,5 @@ def competitor_competitor_similarity(sentence_split=False):
 # [2021-02-24] (Marketing) schedule note: Enhance similarity analysis for Marketing
 
 # [2021-04-14] (Clustering) schedule note: Enhance similarity analysis for Clustering
+
+# [2021-05-28] (Marketing) schedule note: Add visualization for Marketing
