@@ -32,3 +32,5 @@ def show_wordcloud(comp=True, comp_name=''):
 # [2021-02-24] (Marketing) schedule note: Enhance similarity analysis for Marketing
 
 # [2021-04-15] (Clustering) schedule note: Document market insights for Clustering
+
+# [2021-05-28] (Marketing) schedule note: Document market insights for Marketing
