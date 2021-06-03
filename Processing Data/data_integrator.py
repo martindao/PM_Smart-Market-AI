@@ -127,3 +127,5 @@ data_frame_influencer.to_csv('data_influencer.csv', index=False)  # output data 
 # [2021-02-26] (Marketing) schedule note: Add visualization for Marketing
 
 # [2021-04-19] (NLP) schedule note: Improve influencer clustering around NLP
+
+# [2021-06-03] (NLP) schedule note: Enhance similarity analysis for NLP
