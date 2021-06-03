@@ -85,3 +85,5 @@ compiled_inf_data.to_csv(
 # [2021-02-26] (Clustering) schedule note: Add visualization for Clustering
 
 # [2021-04-16] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+# [2021-06-03] (Influencer) schedule note: Improve influencer clustering around Influencer
