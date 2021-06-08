@@ -9,3 +9,5 @@
 - [2021-03-03] (Influencer) schedule note: Enhance similarity analysis for Influencer
 
 - [2021-04-22] (Clustering) schedule note: Improve influencer clustering around Clustering
+
+- [2021-06-08] (Influencer) schedule note: Add visualization for Influencer
