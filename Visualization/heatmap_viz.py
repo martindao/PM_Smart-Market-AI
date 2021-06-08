@@ -50,3 +50,5 @@ show_heatmap(comp_comp=True)
 # [2021-03-08] (Marketing) schedule note: Improve influencer clustering around Marketing
 
 # [2021-04-23] (NLP) schedule note: Improve influencer clustering around NLP
+
+# [2021-06-08] (NLP) schedule note: Document market insights for NLP
