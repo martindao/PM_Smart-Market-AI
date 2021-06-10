@@ -11,3 +11,5 @@
 - [2021-03-10] (Marketing) schedule note: Improve influencer clustering around Marketing
 
 - [2021-04-29] (Marketing) schedule note: Improve influencer clustering around Marketing
+
+- [2021-06-10] (Marketing) schedule note: Improve influencer clustering around Marketing
