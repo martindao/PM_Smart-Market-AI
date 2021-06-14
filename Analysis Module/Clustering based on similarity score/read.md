@@ -11,3 +11,5 @@
 - [2021-03-11] (NLP) schedule note: Document market insights for NLP
 
 - [2021-04-30] (Marketing) schedule note: Document market insights for Marketing
+
+- [2021-06-14] (Marketing) schedule note: Add visualization for Marketing
