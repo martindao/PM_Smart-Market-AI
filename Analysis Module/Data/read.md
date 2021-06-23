@@ -13,3 +13,5 @@
 - [2021-03-19] (Marketing) schedule note: Add visualization for Marketing
 
 - [2021-05-05] (Marketing) schedule note: Document market insights for Marketing
+
+- [2021-06-23] (NLP) schedule note: Improve influencer clustering around NLP
