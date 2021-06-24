@@ -11,3 +11,5 @@
 - [2021-03-23] (Influencer) schedule note: Document market insights for Influencer
 
 - [2021-05-06] (NLP) schedule note: Add visualization for NLP
+
+- [2021-06-24] (NLP) schedule note: Add visualization for NLP
