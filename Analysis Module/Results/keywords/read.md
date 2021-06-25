@@ -9,3 +9,5 @@
 - [2021-03-24] (Clustering) schedule note: Improve influencer clustering around Clustering
 
 - [2021-05-10] (NLP) schedule note: Document market insights for NLP
+
+- [2021-06-25] (Influencer) schedule note: Enhance similarity analysis for Influencer
