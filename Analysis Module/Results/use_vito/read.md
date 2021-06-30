@@ -13,3 +13,5 @@
 - [2021-03-29] (Marketing) schedule note: Document market insights for Marketing
 
 - [2021-05-13] (Marketing) schedule note: Enhance similarity analysis for Marketing
+
+- [2021-06-30] (Influencer) schedule note: Enhance similarity analysis for Influencer
