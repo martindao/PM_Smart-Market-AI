@@ -143,3 +143,5 @@ main()
 # [2021-03-30] (Influencer) schedule note: Enhance similarity analysis for Influencer
 
 # [2021-05-14] (Clustering) schedule note: Add visualization for Clustering
+
+# [2021-07-02] (Clustering) schedule note: Enhance similarity analysis for Clustering
