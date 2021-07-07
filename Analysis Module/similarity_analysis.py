@@ -235,3 +235,5 @@ competitor_influencer_similarity()
 # [2021-03-31] (Clustering) schedule note: Document market insights for Clustering
 
 # [2021-05-18] (Clustering) schedule note: Improve influencer clustering around Clustering
+
+# [2021-07-07] (Influencer) schedule note: Add visualization for Influencer
