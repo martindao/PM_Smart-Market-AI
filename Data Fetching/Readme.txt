@@ -11,3 +11,5 @@ The data is all in text format and we will store it in .csv files. Unless it bec
 - [2021-03-31] (Clustering) schedule note: Add visualization for Clustering
 
 - [2021-05-18] (Influencer) schedule note: Enhance similarity analysis for Influencer
+
+- [2021-07-07] (Marketing) schedule note: Enhance similarity analysis for Marketing
