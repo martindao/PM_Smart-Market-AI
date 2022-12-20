@@ -1,14 +1,14 @@
-# Smart Market AI
+ï»¿# Smart Market AI
 
 ## Overview
-Smart Market AI ingests influencer, campaign, and social-performance datasets, enriches them with NLP/embedding pipelines, and outputs clustering + visualization artifacts for GTM teams. The repo captures the full workflow—from scraping raw data to publishing dashboards and documentation.
+Smart Market AI ingests influencer, campaign, and social-performance datasets, enriches them with NLP/embedding pipelines, and outputs clustering + visualization artifacts for GTM teams. The repo captures the full workflowâ€”from scraping raw data to publishing dashboards and documentation.
 
 ## Repository Layout
-- Data Fetching/ – scripts and configs for downloading influencer + competitor feeds.
-- Processing Data/ – cleaning utilities, feature builders, and similarity calculations.
-- Analysis Module/ – notebooks, clustering experiments, and result CSVs.
-- Visualization/ – Plotly/Matplotlib exports and storytelling assets.
-- Demonstration/ – walkthrough notebooks + presentation-ready summaries.
+- Data Fetching/ â€“ scripts and configs for downloading influencer + competitor feeds.
+- Processing Data/ â€“ cleaning utilities, feature builders, and similarity calculations.
+- Analysis Module/ â€“ notebooks, clustering experiments, and result CSVs.
+- Visualization/ â€“ Plotly/Matplotlib exports and storytelling assets.
+- Demonstration/ â€“ walkthrough notebooks + presentation-ready summaries.
 
 ## Environment Setup
 1. Create/activate an environment and install dependencies:
@@ -26,6 +26,7 @@ Smart Market AI ingests influencer, campaign, and social-performance datasets, e
 - Refresh dashboards by re-running the notebooks or using the assets under Visualization/.
 
 ## Quality & Automation
-- Track large CSVs with Git LFS if they exceed GitHub’s 100 MB limit.
-- When updating notebooks, strip outputs (jupyter nbconvert --clear-output) before committing to keep diffs readable.
-- Follow the OpenSpec schedule for future commits—late-window work (2021–2022) should focus on transformer upgrades, influencer segmentation, and visualization publishing.
+- Track large CSVs with Git LFS if they exceed GitHubâ€™s 100 MB limit.
+- When updating notebooks, strip outputs (jupyter nbconvert --clear-output) before pushing updates to keep diffs readable.
+- Late-window enhancements (2021â€“2022) should emphasize transformer upgrades, influencer segmentation, and visualization publishing.
+
