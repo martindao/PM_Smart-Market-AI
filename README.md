@@ -1,66 +1,31 @@
 # Smart Market AI
 
-An intelligent market analysis platform using machine learning and AI for competitive intelligence.
+## Overview
+Smart Market AI ingests influencer, campaign, and social-performance datasets, enriches them with NLP/embedding pipelines, and outputs clustering + visualization artifacts for GTM teams. The repo captures the full workflow—from scraping raw data to publishing dashboards and documentation.
 
-## Features
-- Influencer analysis and clustering
-- Natural Language Processing (NLP) for market insights
-- Marketing trend analysis
-- Competitive intelligence
-- Market visualization and reporting
-- Similarity analysis across competitors
+## Repository Layout
+- Data Fetching/ – scripts and configs for downloading influencer + competitor feeds.
+- Processing Data/ – cleaning utilities, feature builders, and similarity calculations.
+- Analysis Module/ – notebooks, clustering experiments, and result CSVs.
+- Visualization/ – Plotly/Matplotlib exports and storytelling assets.
+- Demonstration/ – walkthrough notebooks + presentation-ready summaries.
 
-## Project Structure
+## Environment Setup
+1. Create/activate an environment and install dependencies:
+   `powershell
+   conda create -n smart-market python=3.10 pandas numpy scikit-learn plotly
+   conda activate smart-market
+   pip install sentence-transformers seaborn openpyxl
+   `
+2. Place API tokens or brand credentials inside .env (if a connector requires it).
 
-- `Demonstration/` - Demo scripts and examples
-- `Processing Data/` - Data processing modules
-- `Visualization/` - Data visualization components
-- `Analysis Module/` - Core analysis algorithms
-- `Data Fetching/` - Data acquisition utilities
+## Running Workflows
+- Fetch the latest datasets via the scripts in Data Fetching/ (most are Jupyter/py files with documented parameters).
+- Execute preprocessing notebooks in Processing Data/ to regenerate the cleaned CSVs consumed by clustering modules.
+- Run the analysis notebooks inside Analysis Module/Clustering*/ to produce updated similarity matrices and export them to Analysis Module/Data/.
+- Refresh dashboards by re-running the notebooks or using the assets under Visualization/.
 
-## Usage
-
-Run the analysis:
-```bash
-python demo.py
-```
-
-Process data:
-```bash
-python process_data.py
-```
-
-Generate visualizations:
-```bash
-python generate_charts.py
-```
-
-## Dependencies
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- nltk
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-- [2020-10-07] (NLP) schedule note: Add visualization for NLP
-
-- [2020-11-19] (NLP) schedule note: Enhance similarity analysis for NLP
-
-- [2020-11-23] (Influencer) schedule note: Add visualization for Influencer
-
-- [2021-01-06] (Marketing) schedule note: Document market insights for Marketing
-
-- [2021-03-01] (Marketing) schedule note: Enhance similarity analysis for Marketing
-
-- [2021-04-19] (NLP) schedule note: Improve influencer clustering around NLP
-
-- [2021-06-04] (NLP) schedule note: Enhance similarity analysis for NLP
+## Quality & Automation
+- Track large CSVs with Git LFS if they exceed GitHub’s 100 MB limit.
+- When updating notebooks, strip outputs (jupyter nbconvert --clear-output) before committing to keep diffs readable.
+- Follow the OpenSpec schedule for future commits—late-window work (2021–2022) should focus on transformer upgrades, influencer segmentation, and visualization publishing.
